@@ -79,4 +79,4 @@ Deployment In this repository I have made a front end using streamlit .Streamlit
 
 
 
-# APP Link :-  https://share.streamlit.io/rohan20202/face-emotion/main
+# APP Link :- https://share.streamlit.io/rohan20202/face-emotion-recognition/main
