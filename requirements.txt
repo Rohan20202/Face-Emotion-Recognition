@@ -1,5 +1,5 @@
 tensorflow>=2.9.1
-numpy>=1.23.2
+numpy>=1.21.6
 opencv_python>=4.6.0.66
 streamlit-webrtc>=0.43.2
 tensorflow>=cpu
