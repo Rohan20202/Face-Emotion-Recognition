@@ -1,7 +1,7 @@
 # Face Emotion Recognition 
 
 
-AlmaBetter Verfied Project - AlmaBetter School
+                                                                 AlmaBetter Verfied Project - https://www.almabetter.com/
 
 
 
