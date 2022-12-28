@@ -1,6 +1,8 @@
 # Face Emotion Recognition 
 
 
+AlmaBetter Verfied Project - AlmaBetter School
+
 
 
 Human facial expressions convey a lot of information visually rather than articulately. Facial expression recognition plays a crucial role in the area of human-machine interaction. Automatic facial expression recognition systems have many applications including, but not limited to, human behavior understanding, detection of mental disorders, and synthetic human expressions. Recognition of facial expression by computer with high recognition rate is still a challenging task.
