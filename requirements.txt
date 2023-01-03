@@ -5,4 +5,3 @@ opencv_python>=4.7.0.68
 streamlit-webrtc>=0.44.0
 tensorflow>=cpu
 opencv-contrib-python-headless>=4.7.0.68
-pyOpenSSL>=23.0.0
