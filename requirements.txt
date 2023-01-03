@@ -1,4 +1,4 @@
-tensorflow>=2.9.1
+tensorflow>=2.11.0
 numpy>=1.21.6
 opencv_python>=4.6.0.66
 streamlit-webrtc>=0.43.2
