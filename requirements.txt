@@ -6,3 +6,4 @@ tensorflow>=cpu
 opencv-contrib-python-headless>=4.7.0.68
 pip>=22.3.1
 requests>=2.28.1
+pyOpenSSL>=23.0.0
